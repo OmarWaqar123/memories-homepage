@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .border-omar {
+         border-width: 0.01px !important;
+         
+    }
+}
